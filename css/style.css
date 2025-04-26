@@ -60,6 +60,22 @@
     height: 32px;
 }
 
+.btn-sm-square.facebook-link:hover i {
+    color: #1877F2; /* Facebook blue */
+}
+
+.btn-sm-square.youtube-link:hover i {
+    color: #FF0000; /* YouTube red */
+}
+
+.btn-sm-square.instagram-link:hover i {
+    color: #E1306C; /* Instagram gradient pink */
+}
+
+.btn-sm-square.twitter-link:hover i {
+    background-image: url(../images/x-logo.png); /* Default image */
+}
+
 .btn-lg-square {
     width: 48px;
     height: 48px;
